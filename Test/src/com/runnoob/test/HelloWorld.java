@@ -61,7 +61,7 @@ class ListDG {
 		}
 		
 		//初始化边
-		for (int i = 0; i < elen; i++) 
+123456		for (int i = 0; i < elen; i++) 
 		{
 	        // 读取边的起始顶点和结束顶点
 	        String c1 = edges[i][0];
